@@ -11,8 +11,8 @@ public class Test_SerVivo {
         
         pl.setClases("Planta");
         System.out.println(pl.getClases());
-        
         pl.Alimentarse();
+        
         ac.setClases("Animal");
         ac.setClaseAni("Carnivoro");
         System.out.println(ac.getClases()+" "+ac.getClaseAni());
