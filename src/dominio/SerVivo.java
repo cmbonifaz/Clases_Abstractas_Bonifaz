@@ -3,7 +3,6 @@ package dominio;
 public abstract class SerVivo {
 
     private String clases;
-
     public abstract void Alimentarse();
 
     public String getClases() {
